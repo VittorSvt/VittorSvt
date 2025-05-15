@@ -26,7 +26,7 @@ I have important skills such as creativity, communication, marketing, analytical
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-silva-386939297/)
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VittorSvt&show_icons=true&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VittorSvt&show_icons=true&theme=dark&hide_progress=true)
 <!-- Portfolio -->
 ## Portfolio:
 - [Brunetto ACS pinturas e revestimentos](https://brunettoacsweb.vercel.app)
