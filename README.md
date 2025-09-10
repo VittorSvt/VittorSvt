@@ -29,7 +29,6 @@ I have important skills such as creativity, communication, marketing, analytical
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VittorSvt&show_icons=true&theme=dark&hide_progress=true)
 <!-- Portfolio -->
 ## Portfolio:
-- [Brunetto ACS pinturas e revestimentos](https://brunettoacsweb0.vercel.app)
 - [BMI calculator](https://vittorsvt.github.io/Calculadora-de-IMC/)
 
 
