@@ -29,9 +29,9 @@
 
 ### 🚀 Featured Projects
 - [**BMI Calculator**](https://vittorsvt.github.io/Calculadora-de-IMC/) - Simple web application to calculate Body Mass Index.
-- [**Lobo-Guará 8-bit CPU**](https://github.com/VittorSvt/Processador-8-Bits) - 8-bit processor designed from scratch in Logisim-evolution, with a register bank, 16-function ALU, RAM and a control unit built from a truth table.
-- [**WebSec Lab**](https://github.com/VittorSvt/WebSec) - 🚧 *In development.* Web security lab built with PHP and Docker to practice and demonstrate common web attacks in a safe, isolated environment.
-
+- [**Lobo-Guará 8-bit CPU**](https://github.com/VittorSvt/NOME-DO-REPOSITORIO) - 8-bit processor designed from scratch in Logisim-evolution, with a register bank, 16-function ALU, RAM and a control unit built from a truth table.
+- [**Interface Almoxarifado**](https://github.com/VittorSvt/InterfaceAlmoxarifado) - Warehouse inventory web interface built on Google Sheets and Google Apps Script, with a searchable stock table, a request cart and automatic email notifications.
+- [**WebSec Lab**](https://github.com/VittorSvt/NOME-DO-LAB) - 🚧 *In development.* Web security lab built with PHP and Docker to practice and demonstrate common web attacks in a safe, isolated environment.
 <!--### 📊 GitHub Stats -->
 
 <!-- <div align="center">
