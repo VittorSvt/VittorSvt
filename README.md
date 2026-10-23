@@ -1,19 +1,19 @@
 <div align="center">
-  <h1>Hello, I'm Vitor! </h1>
+  <h1>Hello World, I'm Vitor! 🛡️💻</h1>
   <p><em>Computer Science Student | PHP & Web Scraping Developer | Aspiring Cybersecurity Enthusiast</em></p>
 </div>
 
 ---
 
-###  About Me
--  Currently working professionally with **PHP** and **Web Scraping**.
--  Actively studying **Cybersecurity**, Ethical Hacking, and Red Teaming.
--  **Computer Science** student in Brazil.
--  Interests: Information Security, Automation, Web Development, and Networking.
+### 👨‍💻 About Me
+- 🔭 Currently working professionally with **PHP** and **Web Scraping**.
+- 🔒 Actively studying **Cybersecurity**, Ethical Hacking, and Red Teaming.
+- 🎓 **Computer Science** student in Brazil.
+- ⚡ Interests: Information Security, Automation, Web Development, and Networking.
 
 ---
 
-###  Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -27,14 +27,14 @@
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 - [**BMI Calculator**](https://vittorsvt.github.io/Calculadora-de-IMC/) - Simple web application to calculate Body Mass Index.
-- [**Lobo-Guará 8-bit CPU**](https://github.com/VittorSvt/NOME-DO-REPOSITORIO) - 8-bit processor designed from scratch in Logisim-evolution, with a register bank, 16-function ALU, RAM and a control unit built from a truth table.
+- [**Lobo-Guará 8-bit CPU**](https://github.com/VittorSvt/Processador-8-Bits) - 8-bit processor designed from scratch in Logisim-evolution, with a register bank, 16-function ALU, RAM and a control unit built from a truth table.
 - [**WebSec Lab**](https://github.com/VittorSvt/WebSec) - 🚧 *In development.* Web security lab built with PHP and Docker to practice and demonstrate common web attacks in a safe, isolated environment.
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VittorSvt&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -43,7 +43,7 @@
 
 ---
 
-###  Connect With Me
+### 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-silva-386939297/">
