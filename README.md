@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello World, I'm Vitor! 🛡️💻</h1>
+  <h1>Hello, I'm Vitor! 🛡️💻</h1>
   <p><em>Computer Science Student | PHP & Web Scraping Developer | Aspiring Cybersecurity Enthusiast</em></p>
 </div>
 
