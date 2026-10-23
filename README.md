@@ -32,14 +32,12 @@
 - [**Lobo-Guará 8-bit CPU**](https://github.com/VittorSvt/Processador-8-Bits) - 8-bit processor designed from scratch in Logisim-evolution, with a register bank, 16-function ALU, RAM and a control unit built from a truth table.
 - [**WebSec Lab**](https://github.com/VittorSvt/WebSec) - 🚧 *In development.* Web security lab built with PHP and Docker to practice and demonstrate common web attacks in a safe, isolated environment.
 
----
+<!--### 📊 GitHub Stats -->
 
-### 📊 GitHub Stats
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VittorSvt&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VittorSvt&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
